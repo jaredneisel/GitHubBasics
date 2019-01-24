@@ -12,4 +12,22 @@ Answer #4: No commits yet
 Answer #5: new file: README.md
             untracked files: answers.md
             
-Answer #6
+Answer #6: new file: README.md
+            new file: answers.md
+
+Answer #7: modified: answers.md
+
+Answer #8: Author: Jared Neisel <jn820317@ohio.edu>
+            Date: Wed Jan 23 18:33:15 2019 -0500
+            Initial commit
+
+Answer #9: Your branch is up to date with 'origin/master'.
+            modified: answers.md
+
+Answer #10: It did not move
+
+Answer #11: Everything up-to-date
+
+Answer #12: Yes the changes I made online reflected my local copy!
+
+Answer #13: . .. .git .gitignore README.md
